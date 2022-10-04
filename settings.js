@@ -37,7 +37,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
 global.vcardowner = ['94763407452'] //ur owner number
-global.ownername = "VIHAGA THIKSANA" //ur owner name
+global.ownername = "∇✸⚒ⁱᴠɪʜᴀɢᴀ ᴛʜɪᴋꜱᴀɴᴀᵐ🛠✸∇" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: Thiksana" //ur github or insta name
 global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
@@ -49,8 +49,8 @@ global.botnumber = '94763407452' //Add your Bot Number For Log
 global.botname = 'VT Official bot' //ur bot name
 global.ig = "https://youtube.com/channel/UCiMmvM-OLyee7JDthwK_E0Q" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtube.com/channel/UCiMmvM-OLyee7JDthwK_E0Q" //ur website to be displayed
-global.sc = 'https://chat.whatsapp.com/KPK9oTg2PwsJVTdaROjOgp' //script link
-global.linkz = 'https://chat.whatsapp.com/KPK9oTg2PwsJVTdaROjOgp'
+global.sc = 'https://chat.whatsapp.com/LnNWp05UcUGFoqXUdyZObx' //script link
+global.linkz = 'https://chat.whatsapp.com/LnNWp05UcUGFoqXUdyZObx'
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
 global.packname = "VIHAGA THIKSANA " //ur sticker watermark packname
